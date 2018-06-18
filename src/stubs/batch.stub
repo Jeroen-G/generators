@@ -1,0 +1,6 @@
+<?php
+
+return [
+    // Filename => [stub, path]
+    'User' => ['model', 'path'],
+];

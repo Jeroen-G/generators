@@ -1,0 +1,34 @@
+{
+    "name": "jeroen-g/generators",
+    "description": "My personal laravel generator commands package.",
+    "license": "EUPL-1.1",
+    "authors": [
+        {
+            "name": "Jeroen",
+            "email": "jeroengjeroeng@gmail.com",
+            "homepage": "https://github.com/jeroen-g"
+        }
+    ],
+    "homepage": "https://github.com/jeroen-g/generators",
+    "keywords": ["Laravel", "Generators"],
+    "require": {
+        "illuminate/support": "~5"
+    },
+    "autoload": {
+        "psr-4": {
+            "JeroenG\\Generators\\": "src/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "JeroenG\\Generators\\Tests\\": "tests"
+        }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "JeroenG\\Generators\\GeneratorsServiceProvider"
+            ]
+        }
+    }
+}
