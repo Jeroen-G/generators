@@ -38,10 +38,10 @@ Please see [contributing.md](contributing.md) for details and a todolist.
 
 EUPL-1.1. Please see the [license file](license.md) for more information.
 
-[ico-version]: https://img.shields.io/packagist/v/jeroeng/generators.svg?style=flat-square
-[ico-styleci]: https://styleci.io/repos/12345678/shield
+[ico-version]: https://img.shields.io/packagist/v/jeroen-g/generators.svg?style=flat-square
+[ico-styleci]: https://github.styleci.io/repos/137758955/shield
 
-[link-packagist]: https://packagist.org/packages/jeroeng/generators
-[link-styleci]: https://styleci.io/repos/12345678
+[link-packagist]: https://packagist.org/packages/jeroen-g/generators
+[link-styleci]: https://github.styleci.io/repos/137758955
 [link-author]: https://github.com/jeroeng
 [link-contributors]: ../../contributors
